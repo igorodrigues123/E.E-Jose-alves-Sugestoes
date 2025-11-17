@@ -24,7 +24,7 @@ export default function Contato() {
                 <p className="text-muted-foreground mb-2">
                   Para dúvidas gerais:
                 </p>
-<<<<<<< HEAD
+
                 <a href="mailto:E005915A@EDUCACAO.SP.GOV.BR" className="text-primary hover:underline">
                   E005915A@EDUCACAO.SP.GOV.BR
                 </a>
